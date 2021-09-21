@@ -3,6 +3,8 @@
 **Saturn.js** is a powerful [Node.js](https://nodejs.org) module made in  JavaScript that allows you to easily interact with the
 [Discord API](https://discord.com/developers/docs/intro).
 
+For support join our official [saturn.js Support Discord](https://discord.gg/gbJUHKpPZf)
+
 - Object-oriented
 - Predictable abstractions
 - Performant
